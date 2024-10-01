@@ -12,8 +12,7 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 
 # Publications
 - **SPAS: Continuous Release of Data Streams under w-Event Differential Privacy (Shepherd Submission).**
-  
-  **Xiaochen Li\***, Tianyu Li*, Yitian Cheng, Chen Gong, Kui Ren, Zhan Qin, Tianhao Wang. In SIGMOD 2025.
+  *<u>Xiaochen Li\*</u>, Tianyu Li\*, Yitian Cheng, Chen Gong, Kui Ren, Zhan Qin, Tianhao Wang*. In SIGMOD 2025.
 
 - **Delay-allowed Differentially Private Data Stream Release.**
   
