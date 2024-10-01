@@ -11,8 +11,8 @@ I am currently a postdoctoral researcher at the University of Virginia, working 
 My recent research interests focus on Differential Privacy and Machine Unlearning.
 
 # Publications
-- **SPAS: Continuous Release of Data Streams under w-Event Differential Privacy (Shepherd Submission).**
-  *<u>Xiaochen Li</u>\*, Tianyu Li\*, Yitian Cheng, Chen Gong, Kui Ren, Zhan Qin, Tianhao Wang*. (SIGMOD 2025)
+- **SPAS: Continuous Release of Data Streams under w-Event Differential Privacy.**
+  *<u>Xiaochen Li</u>\*, Tianyu Li\*, Yitian Cheng, Chen Gong, Kui Ren, Zhan Qin, Tianhao Wang*. (SIGMOD 2025, Accept and Shepherd)
 
 - **Delay-allowed Differentially Private Data Stream Release.**
   *<u>Xiaochen Li</u>, Zhan Qin, Kui Ren, Chen Gong, Shuya Feng, Yuan Hong, and Tianhao Wang*. (NDSS 2025)
