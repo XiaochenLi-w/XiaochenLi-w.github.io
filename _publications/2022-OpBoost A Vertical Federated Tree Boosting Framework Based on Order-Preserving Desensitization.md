@@ -1,6 +1,7 @@
 ---
 title: "OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization."
 collection: publications
+permalink: /publication/2022-OpBoost A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization
 excerpt: 'Xiaochen Li*, Yuke Hu*, Weiran Liu, Hanwen Feng, Li Peng, Yuan Hong, Kui Ren, and Zhan Qin.'
 date: 2022
 venue: 'PVLDB'
