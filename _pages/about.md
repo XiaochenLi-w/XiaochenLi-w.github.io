@@ -34,8 +34,13 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 
 # Services
 ## Reviewer:
+- Eurocrypt, 2025
 - ACM Transactions on Privacy and Security (TOPS), 2024.
 - ACM Transactions on Knowledge Discovery from Data (TKDD), 2024.
 - Tsinghua Science and Technology, 2024.
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
 - SCIENCE CHINA Mathematics, 2023.
+
+## Volunteer:
+-**AHS Science Fair.** Judged student science projects as part of the Charlottesville Community Science Fair event. *Albemarle High School, February 2024.*
+-**ACM Capital Region Celebration of Women in Computing (CAPWIC).** Guide people to the event venue. *University of Virginia, April 2024.*
