@@ -46,7 +46,7 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 - SCIENCE CHINA Mathematics, 2023.
 
 ## Teaching:
--Graduate-Level Course: Data Privacy. Co-Instructor. *University of Virginia, Spring 2025.*
+- Graduate-Level Course: Data Privacy. Co-Instructor. *University of Virginia, Spring 2025.*
 
 ## Volunteer:
 - **AHS Science Fair.** Judged student science projects as part of the Charlottesville Community Science Fair event. *Albemarle High School, February 2024.*
