@@ -23,6 +23,9 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 - **DPI: Ensuring Strict Differential Privacy for Infinite Data Streaming.**
   *Shuya Feng, Meisam Mohammady, Han Wang, <u>Xiaochen Li</u>, Zhan Qin, and Yuan Hong*. (S&P 2024)
 
+- **Privacy Risks of Federated Knowledge Graph Embedding: New Membership Inference Attacks and Personalized Differential Privacy Defense.**
+  *Yuke Hu, Yang Wang, Jian Lou, Wei Liang, Ruofan Wu, Weiqiang Wang, <u>Xiaochen Li</u>, Jinfei Liu, Zhan Qin*. (TDSC 2024)
+
 - **Privacy Enhancement via Dummy Points in the Shuffle Model.**
   *<u>Xiaochen Li</u>, Weiran Liu, Hanwen Feng, Kunzhe Huang, Yuke Hu, Jinfei Liu, Kui Ren, and Zhan Qin*. (TDSC 2023)
 
@@ -34,12 +37,16 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 
 # Services
 ## Reviewer:
-- Eurocrypt, 2025
+- Eurocrypt (subreviewer), 2025.
+- Transactions on Information Forensics \& Security (TIFS), 2024.
 - ACM Transactions on Privacy and Security (TOPS), 2024.
 - ACM Transactions on Knowledge Discovery from Data (TKDD), 2024.
 - Tsinghua Science and Technology, 2024.
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2023.
 - SCIENCE CHINA Mathematics, 2023.
+
+## Teaching:
+-Graduate-Level Course: Data Privacy. Co-Instructor. *University of Virginia, Spring 2025.*
 
 ## Volunteer:
 - **AHS Science Fair.** Judged student science projects as part of the Charlottesville Community Science Fair event. *Albemarle High School, February 2024.*
