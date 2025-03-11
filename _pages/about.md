@@ -11,6 +11,12 @@ I am currently a postdoctoral researcher at University of Virginia, working with
 My recent research interests focus on Differential Privacy and Machine Unlearning.
 
 # Publications
+- **From Easy to Hard: Building a Shortcut for Differentially Private Image Synthesis.**
+  Kecen Li, Chen Gong, <u>Xiaochen Li</u>, Yuzhong Zhao, Xinwen Hou, Tianhao Wang. (S&P 2025)
+  
+- **Benchmarking Differentially Private Tabular Data Synthesis Algorithms.**
+  Kai Chen, <u>Xiaochen Li</u>, Chen Gong, Ryan McKenna, Tianhao Wang. (ICLR Workshop 2025)
+  
 - **SPAS: Continuous Release of Data Streams under w-Event Differential Privacy.**
   *<u>Xiaochen Li</u>\*, Tianyu Li\*, Yitian Cheng, Chen Gong, Kui Ren, Zhan Qin, Tianhao Wang*. (SIGMOD 2025)
 
@@ -37,7 +43,11 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 
 # Services
 ## Reviewer:
+- ACM Transactions on Internet Technology (TOIT), 2025.
+- IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.
+- IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025.
 - Eurocrypt (subreviewer), 2025.
+- IEEE Transactions on Dependable and Secure Computing (TDSC), 2024.
 - Transactions on Information Forensics \& Security (TIFS), 2024.
 - ACM Transactions on Privacy and Security (TOPS), 2024.
 - ACM Transactions on Knowledge Discovery from Data (TKDD), 2024.
