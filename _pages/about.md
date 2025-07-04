@@ -29,7 +29,7 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 
 - **Local Differential Private Heavy Hitter Detection in Streams with Bounded Memory Consumption.**
   
-  *<u>Xiaochen Li</u>, Weiran Liu, Jian Lou, Yuan Hong, Zhan Qin, and Kui Ren*. (SIDMOD 2024)
+  *<u>Xiaochen Li</u>, Weiran Liu, Jian Lou, Yuan Hong, Zhan Qin, and Kui Ren*. (SIGMOD 2024)
 
 - **DPI: Ensuring Strict Differential Privacy for Infinite Data Streaming.**
   
