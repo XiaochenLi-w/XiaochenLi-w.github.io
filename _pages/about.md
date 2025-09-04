@@ -7,10 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at University of Virginia, working with Prof. [Tianhao Wang](https://tianhao.wang). Prior to this, I was a visiting Ph.D. student at University of Virginia from April 2023 to April 2024. I received my Ph.D. degree in Cyberspace Security from the College of Computer Science and Technology at Zhejiang University, under the supervision of Prof. [Zhan Qin](https://person.zju.edu.cn/en/zhanqin). I received my B.S. degree in Information Security from China University of Mining and Technology. I also collaborated closely with Dr. [Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=en) (from Alibaba Group) and Prof. [Yuan Hong](https://yhongcs.github.io/) (from University of Connecticut) during my Ph.D. journey.
+I am currently an Assistant Professor in the Department of Computer Science at the University of North Carolina at Greensboro. Previously, I was a postdoctoral researcher at the University of Virginia, working with Prof. [Tianhao Wang](https://tianhao.wang). From April 2023 to April 2024, I was a visiting Ph.D. student at the University of Virginia. I earned my Ph.D. in Cyberspace Security from the College of Computer Science and Technology at Zhejiang University, where I was advised by Prof. [Zhan Qin](https://person.zju.edu.cn/en/zhanqin). I received my B.S. degree in Information Security from China University of Mining and Technology. During my Ph.D., I worked closely with Dr. [Weiran Liu](https://scholar.google.com/citations?user=0w_EKL0AAAAJ&hl=en) (from Alibaba Group) and Prof. [Yuan Hong](https://yhongcs.github.io/) (from University of Connecticut).
 My recent research interests focus on Differential Privacy and Machine Unlearning.
 
 # Publications
+-**Benchmarking Differentially Private Tabular Data Synthesis.**
+
+  Kai Chen, <u>Xiaochen Li</u>, Chen Gong, Ryan Mckenna, Tianhao Wang. (SIGMOD 2026)
+
 - **From Easy to Hard: Building a Shortcut for Differentially Private Image Synthesis.**
   
   Kecen Li, Chen Gong, <u>Xiaochen Li</u>, Yuzhong Zhao, Xinwen Hou, Tianhao Wang. (S&P 2025)
@@ -53,6 +57,7 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 
 # Services
 ## Reviewer:
+- Transactions on Information Forensics & Security (TIFS), 2025.
 - ACM Transactions on Internet Technology (TOIT), 2025.
 - IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.
 - IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025.
