@@ -11,7 +11,7 @@ I am currently an Assistant Professor in the Department of Computer Science at t
 My recent research interests focus on Differential Privacy and Machine Unlearning.
 
 # Publications
--**Benchmarking Differentially Private Tabular Data Synthesis.**
+- **Benchmarking Differentially Private Tabular Data Synthesis.**
 
   Kai Chen, <u>Xiaochen Li</u>, Chen Gong, Ryan Mckenna, Tianhao Wang. (SIGMOD 2026)
 
