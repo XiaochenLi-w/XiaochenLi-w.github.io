@@ -11,17 +11,21 @@ I am currently an Assistant Professor in the Department of Computer Science at t
 My recent research interests focus on Differential Privacy and Machine Unlearning.
 
 # Publications
+- **PrivATE: Differentially Private Average Treatment Effect Estimation for Observational Data.**
+
+  *Quan Yuan, <u>Xiaochen Li</u>, Linkang Du, Min Chen, Mingyang Sun, Yunjun Gao, Shibo He, Jiming Chen, Zhikun Zhang*. (NDSS 2026)
+  
 - **Benchmarking Differentially Private Tabular Data Synthesis.**
 
-  Kai Chen, <u>Xiaochen Li</u>, Chen Gong, Ryan Mckenna, Tianhao Wang. (SIGMOD 2026)
+  *Kai Chen, <u>Xiaochen Li</u>, Chen Gong, Ryan Mckenna, Tianhao Wang*. (SIGMOD 2026)
 
 - **From Easy to Hard: Building a Shortcut for Differentially Private Image Synthesis.**
   
-  Kecen Li, Chen Gong, <u>Xiaochen Li</u>, Yuzhong Zhao, Xinwen Hou, Tianhao Wang. (S&P 2025)
+  *Kecen Li, Chen Gong, <u>Xiaochen Li</u>, Yuzhong Zhao, Xinwen Hou, Tianhao Wang*. (S&P 2025)
   
 - **Benchmarking Differentially Private Tabular Data Synthesis Algorithms.**
   
-  Kai Chen, <u>Xiaochen Li</u>, Chen Gong, Ryan McKenna, Tianhao Wang. (ICLR Workshop 2025)
+  *Kai Chen, <u>Xiaochen Li</u>, Chen Gong, Ryan McKenna, Tianhao Wang*. (ICLR Workshop 2025)
   
 - **SPAS: Continuous Release of Data Streams under w-Event Differential Privacy.**
   
@@ -72,6 +76,8 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 
 ## Teaching:
 - Graduate-Level Course: Data Privacy. Co-Instructor. *University of Virginia, Spring 2025.*
+- Undergraduate-Level Course: Data Science. Instructor. *UNC Greensboro, Spring 2026.*
+- Undergraduate-Level Course: Principles of Computer Security. Instructor. *UNC Greensboro, Spring 2026.*
 
 ## Volunteer:
 - **Virginia State Science and Engineering Fair (VSSEF).** Served as the team captain for the Robotics, Software & Embedded Systems track, responsible for reviewing projects, organizing team members to compile evaluations, and leading the discussion of final review outcomes. *Piedmont Virginia Community College (PVCC), April 2025.*
