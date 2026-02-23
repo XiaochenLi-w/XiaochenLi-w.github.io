@@ -13,7 +13,7 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 # Publications
 - **HeteroFedSyn: Differentially Private Tabular Data Synthesis for Heterogeneous Federated Settings.**
 
-- *<u>Xiaochen Li</u>, Fengyu Gao,  Xizixiang Wei, Tianhao Wang, Cong Shen, Jing Yang*. (SIGMOD 2026)
+  *<u>Xiaochen Li</u>, Fengyu Gao,  Xizixiang Wei, Tianhao Wang, Cong Shen, Jing Yang*. (SIGMOD 2026)
   
 - **PrivATE: Differentially Private Average Treatment Effect Estimation for Observational Data.**
 
