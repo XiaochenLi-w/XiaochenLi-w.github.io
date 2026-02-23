@@ -11,6 +11,10 @@ I am currently an Assistant Professor in the Department of Computer Science at t
 My recent research interests focus on Differential Privacy and Machine Unlearning.
 
 # Publications
+- **HeteroFedSyn: Differentially Private Tabular Data Synthesis for Heterogeneous Federated Settings.**
+
+- *<u>Xiaochen Li</u>, Fengyu Gao,  Xizixiang Wei, Tianhao Wang, Cong Shen, Jing Yang*. (SIGMOD 2026)
+  
 - **PrivATE: Differentially Private Average Treatment Effect Estimation for Observational Data.**
 
   *Quan Yuan, <u>Xiaochen Li</u>, Linkang Du, Min Chen, Mingyang Sun, Yunjun Gao, Shibo He, Jiming Chen, Zhikun Zhang*. (NDSS 2026)
