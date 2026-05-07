@@ -11,6 +11,10 @@ I am currently an Assistant Professor in the Department of Computer Science at t
 My recent research interests focus on Differential Privacy and Machine Unlearning.
 
 # Publications
+- **PrivCode++ : Latent-Conditioned Differentially Private Code Generation for Comprehensive Guarantees.**
+
+  Zheng Liu, Chen GONG, Terry Yue Zhuo, Zhou Yang, Kecen Li, Wenlong Meng, Xinwen Hou, Yu Liu, *<u>Xiaochen Li</u> (ICML 2026)
+
 - **HeteroFedSyn: Differentially Private Tabular Data Synthesis for Heterogeneous Federated Settings.**
 
   *<u>Xiaochen Li</u>, Fengyu Gao,  Xizixiang Wei, Tianhao Wang, Cong Shen, Jing Yang*. (SIGMOD 2026)
