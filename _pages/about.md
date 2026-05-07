@@ -13,7 +13,7 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 # Publications
 - **PrivCode++ : Latent-Conditioned Differentially Private Code Generation for Comprehensive Guarantees.**
 
-  Zheng Liu, Chen Gong, Terry Yue Zhuo, Zhou Yang, Kecen Li, Wenlong Meng, Xinwen Hou, Yu Liu, *<u>Xiaochen Li</u> (ICML 2026)
+  *Zheng Liu, Chen Gong, Terry Yue Zhuo, Zhou Yang, Kecen Li, Wenlong Meng, Xinwen Hou, Yu Liu, <u>Xiaochen Li</u>*. (ICML 2026)
 
 - **HeteroFedSyn: Differentially Private Tabular Data Synthesis for Heterogeneous Federated Settings.**
 
