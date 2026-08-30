@@ -83,9 +83,9 @@ My recent research interests focus on Differential Privacy and Machine Unlearnin
 
 ## Teaching:
 - Graduate-Level Course: Data Privacy. Co-Instructor. *University of Virginia, Spring 2025.*
-- Undergraduate-Level Course: Data Science. Instructor. *UNC Greensboro, Spring/Fall 2026.*
+- Undergraduate \& Graduate-Level Course: Data Science. Instructor. *UNC Greensboro, Spring/Fall 2026.*
   Couse Website [Data Science](https://xiaochenli-w.github.io/CSC-405-605-705-Data-Science-Fall-2026/)
-- Undergraduate-Level Course: Principles of Computer Security. Instructor. *UNC Greensboro, Spring 2026.*
+- Undergraduate \& Graduate-Level Course: Principles of Computer Security. Instructor. *UNC Greensboro, Spring 2026.*
   Couse Website [Principles of Computer Security](https://xiaochenli-w.github.io/CSC-481-681-Principles-of-Computer-Security/)
 - Graduate-Level Course: Doctoral Student Orientation. *UNC Greensboro, Fall 2026.*
 
